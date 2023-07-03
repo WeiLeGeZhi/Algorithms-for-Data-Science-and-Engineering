@@ -29,3 +29,4 @@ WEN Zhaohe's repository for the course Algorithms for Data Science and Engineeri
 - Homework 8:矩阵分解
 - Homework 9:整数规划
 - Homework 10:子模函数及其应用
+- Homework 11:模块度及社区发现
